@@ -1,0 +1,22 @@
+{
+  "name": "terra",
+  "version": "0.0.1",
+  "description": "Library for generating configurable world terrain maps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "ProjectMoon",
+  "license": "GPL",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/index.js",
+  "dependencies": { 
+    "deepmerge": ""
+  }
+}
